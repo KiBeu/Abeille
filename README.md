@@ -1,6 +1,6 @@
 # Abeille
 
-Version master en développement permanent.
+Version Beta du 25/11/2019 pour Jeedom V4 et/ou Buster (Debian 10).
 
 
 ## Plugin pour Jeedom (Gateway ZiGate)
