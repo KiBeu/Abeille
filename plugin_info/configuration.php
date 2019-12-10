@@ -37,7 +37,7 @@
                 <div class="form-group">
                     <label class="col-lg-4 control-label" data-toggle="tooltip" title="Version Abeille.">{{Version Abeille : }}</label>
                     <div class="col-lg-4">
-                        Beta du 25/11/2019 pour Jeedom V4 et/ou Buster (Debian 10)
+                        Stable du 10/12/2019 pour Jeedom V4 et/ou Buster (Debian 10)
                     </div>
                 </div>
             </div>
